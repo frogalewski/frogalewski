@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frogalewskik&theme=react&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frogalewski&theme=react&show_icons=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frogalewski&theme=react&show_icons=true" />
 </p>
 </details>
